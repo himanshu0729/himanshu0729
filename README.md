@@ -1,6 +1,6 @@
 <br>
 
-<img src="profile.jpg">
+<img src="dp.jpg">
  
  <br>
  
